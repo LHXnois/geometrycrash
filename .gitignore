@@ -1,0 +1,8 @@
+*.uproject
+/Config/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Content/*
+!/Content/TwinStick/
+!/Content/TwinStickBP/
