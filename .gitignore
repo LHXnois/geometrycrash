@@ -1,5 +1,4 @@
 *.uproject
-/Config/
 /DerivedDataCache/
 /Intermediate/
 /Saved/
