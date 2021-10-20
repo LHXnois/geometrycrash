@@ -1,5 +1,12 @@
 # geometrycrash
 geometrycrash
+# how to start
+* `git clone https://github.com/LHXnois/geometrycrash.git`
+* 用ue4新建一个项目
+* 把clone下的文件全部拷贝到项目里覆盖
+* 打开`TwinStickBP/Maps/TwinStickBP/Maps/level1`,开始修改或搭建
+* 修改完成后，`git pull`+`git push`
+# 更新log
 ## 10.09
 ### 关卡搭建
 >消灭所有敌人后关卡某处会出现一扇通往下一关的门
